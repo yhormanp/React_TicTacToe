@@ -2,6 +2,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+### `download the project and run, npm install to install the packages`
+### `after that, run, npm start to run the project and open http://localhost:3000 to view it in the browser.`
+
+
+this tutorial was made from the  reactjs page
+https://reactjs.org/tutorial/tutorial.html
+
 In the project directory, you can run:
 
 ### `npm start`
